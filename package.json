@@ -1,6 +1,6 @@
 {
   "name": "snoopyquiz",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A short CLI quiz for fun and information",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "bin": "index.js",
   "keywords": ["quiz","snoopy","snoopycoder"],
-  "author": "",
+  "author": "SnoopyCoder@meghansh",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
